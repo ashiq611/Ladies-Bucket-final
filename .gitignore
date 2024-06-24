@@ -12,7 +12,7 @@ node_modules
 dist
 dist-ssr
 *.local
-backend/config/config.env.example
+backend/config/config.env
 backend/utils/sendMail.js
 
 
