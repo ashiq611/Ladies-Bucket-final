@@ -43,8 +43,7 @@ const sendMail = async (options) => {
 module.exports = sendMail;
 
 // REFRESH_TOKEN = "1//04Ov2_WlzI-7PCgYIARAAGAQSNwF-L9Irf_QfMzLAi7wpMzFhHg2UuSAQLyclajrxuvbcP3I9q8ZTw88BigNFzTxmDC8R0fMvyU4"
-// CLIENT_ID = "448514247810-dbo8o1q7vbhni038tsjqu1c2lr3q3r3b.apps.googleusercontent.com"
-// CLIENT_SECRET = "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"
+
 
 // REDIRECT_URL = "https://developers.google.com/oauthplayground"
 
